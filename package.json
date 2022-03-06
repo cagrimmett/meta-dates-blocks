@@ -1,0 +1,9 @@
+{
+    "name": "meta-dates-block",
+    "scripts": {
+        "build": "parcel build blocks/meta-dates.jsx --dist-dir blocks --public-url ."
+    },
+    "dependencies": {
+        "parcel": "^2.3.2"
+    }
+}
